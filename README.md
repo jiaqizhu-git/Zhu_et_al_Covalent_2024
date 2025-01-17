@@ -20,7 +20,7 @@ Zhu_AR_Ligands_Tau5R2R3_cluster_com_E2E7_C20.ipynb is for clustering the combine
 
 Zhu_AR_Ligands_Tau5R2R3_cluster_com_CYECYE7.ipynb is for clustering the combined trajectory of Tau-5<sub>R2_R3</sub> CYS404:EPI-002 and Tau-5<sub>R2_R3</sub> CYS404:EPI-7170 with 4 clusters.
 
-Zhu_AR_Ligands_Tau5R2R3_cluster_com_E2E7_C20.ipynb is for clustering the combined trajectory of Tau-5<sub>R2_R3</sub> CYS404:EPI-002 and Tau-5<sub>R2_R3</sub> CYS404:EPI-7170 with 20 clusters.
+Zhu_AR_Ligands_Tau5R2R3_cluster_com_CYE2CYE7_C20.ipynb is for clustering the combined trajectory of Tau-5<sub>R2_R3</sub> CYS404:EPI-002 and Tau-5<sub>R2_R3</sub> CYS404:EPI-7170 with 20 clusters.
 
 Zhu_AR_Ligands_Tau5R2R3_CYE_9.11.24.ipynb is for the analysis of Replica Exchange with Solute Tempering simulation of Tau-5<sub>R2_R3</sub> CYS404:EPI-002.
 
